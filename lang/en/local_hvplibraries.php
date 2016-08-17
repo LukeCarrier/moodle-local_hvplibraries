@@ -11,3 +11,6 @@ defined('MOODLE_INTERNAL') || die;
 
 // Moodle component metadata
 $string['pluginname'] = 'Disk-backed H5P libraries';
+
+// Exceptions
+$string['methodnotimplemented'] = 'Call to unimplemented method "{$a}()"';
