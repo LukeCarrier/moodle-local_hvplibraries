@@ -1,0 +1,23 @@
+{
+  "name": "moodle-local_hvplibraries",
+  "version": "0.1.0",
+  "description": "Disk-backed H5P libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    {
+      "name": "Luke Carrier",
+      "email": "luke.carrier@avadolearning.com"
+    }
+  ],
+  "license": "GPL-3.0+",
+  "dependencies": {
+    "del": "^2.2.2",
+    "download": "^5.0.2",
+    "mkdirp": "^0.5.1",
+    "yargs": "^5.0.0",
+    "yauzl": "^2.6.0"
+  }
+}
